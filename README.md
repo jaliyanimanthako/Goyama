@@ -14,7 +14,10 @@ The model is trained using the [Rice Leaf Dataset from Mendeley Data](https://ww
 The model can identify the following rice diseases:
 - **Bacterial blight**: A serious disease caused by the bacterium *Xanthomonas oryzae* which leads to wilting of seedlings and yellowing and drying of leaves.
   
-  ![BACTERAILBLIGHT4_239](https://github.com/jaliyanimanthako/Goyama/assets/161110418/468ec9eb-a1ab-453f-b6e2-5e345219a0f4)
+  <p align="center">
+  <img src="https://github.com/jaliyanimanthako/Goyama/assets/161110418/468ec9eb-a1ab-453f-b6e2-5e345219a0f4" >
+</p>
+  
   
 - **Blast**: Caused by the fungus *Magnaporthe oryzae*, this disease leads to lesions on leaves, collars, nodes, and panicles.
   
