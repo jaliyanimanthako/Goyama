@@ -19,19 +19,23 @@ The model can identify the following rice diseases:
 </p>
   
   
-- **Blast**: Caused by the fungus *Magnaporthe oryzae*, this disease leads to lesions on leaves, collars, nodes, and panicles.
+- **Blast**: Caused by the fungus *Magnaporthe oryzae*, this disease leads to lesions on leaves, collars, nodes, and panicles'
   
-  ![BLAST4_044](https://github.com/jaliyanimanthako/Goyama/assets/161110418/98298f46-d167-40ef-a175-98e4b0b0692a)
-
+  <p align="center">
+  <img src="https://github.com/jaliyanimanthako/Goyama/assets/161110418/98298f46-d167-40ef-a175-98e4b0b0692a" >
+</p>
+  
 - **Brown spot**: A fungal disease caused by *Cochliobolus miyabeanus* that results in brown lesions on the leaves and grains, reducing the grain quality and yield.
-  
-  ![BROWNSPOT2_099](https://github.com/jaliyanimanthako/Goyama/assets/161110418/1c5aa2eb-28be-4992-be3e-843f0ebec259)
+    <p align="center">
+  <img src="https://github.com/jaliyanimanthako/Goyama/assets/161110418/1c5aa2eb-28be-4992-be3e-843f0ebec259" >
+</p>
 
 - **Tungro**: Caused by a complex of two viruses, the Rice tungro bacilliform virus (RTBV) and Rice tungro spherical virus (RTSV), leading to stunted growth, yellow-orange discoloration, and reduced tillering.
+      <p align="center">
+  <img src="https://github.com/jaliyanimanthako/Goyama/assets/161110418/c6b2dec7-85dd-49b2-a620-4caf71f13f5b" >
+</p>
+
   
-![TUNGRO3_256](https://github.com/jaliyanimanthako/Goyama/assets/161110418/c6b2dec7-85dd-49b2-a620-4caf71f13f5b)
-
-
 ### Prerequisites
 
 - Python 3.7+
