@@ -61,7 +61,7 @@ The augmentation pipeline includes:
 
 ## Model Architecture
 
-The model architecture is defined in `src/model.py` as `ConvoluNet`. It consists of several convolutional layers, followed by fully connected layers.
+Consists of several convolutional layers, followed by fully connected layers.
 ![Architecture](https://github.com/jaliyanimanthako/Goyama/assets/161110418/e6c4a630-0590-4040-b9a0-057fe871479d)
 
 
@@ -96,8 +96,10 @@ Feel free to fork this repository, make your improvements, and create pull reque
 ## Developed With
 
 - **PyTorch**: An open source machine learning framework that accelerates the path from research prototyping to production deployment.
-- ![image](https://github.com/jaliyanimanthako/Goyama/assets/161110418/06a3c4e6-da40-4587-8646-e62e02226a4e)
-
+    <p align="center">
+  <img src="https://github.com/jaliyanimanthako/Goyama/assets/161110418/06a3c4e6-da40-4587-8646-e62e02226a4e" >
+</p>
+  
 ## Citations
 
 This project references the following research papers:
